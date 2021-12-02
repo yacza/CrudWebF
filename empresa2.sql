@@ -26,7 +26,7 @@ SET time_zone = "+00:00";
 --
 -- Estructura de tabla para la tabla `empleados`
 --
-
+USE empresa2
 CREATE TABLE `empleados` (
   `ID` int(11) NOT NULL,
   `Nombre` varchar(50) NOT NULL,
